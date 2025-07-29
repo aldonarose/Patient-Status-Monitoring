@@ -74,7 +74,7 @@ The K-Means clustering algorithm successfully partitioned the patient data into 
 1. **Prerequisites**: Ensure you have Python installed with the necessary libraries.
 2. **Clone the Repository**:
 ```
-git clone https://github.com/aldona-rose/patient-status-monitoring.git
+git clone https://github.com/aldonarose/patient-status-monitoring.git
 cd patient-status-monitoring
 ```
 3. **Install Libraries**:
